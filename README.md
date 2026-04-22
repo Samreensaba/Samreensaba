@@ -21,4 +21,4 @@ I bridge the gap between complex data and intuitive user experiences. Currently 
 ---
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Samreensaba]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[samreensaba]&show_icons=true&theme=radical)
