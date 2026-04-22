@@ -5,7 +5,7 @@ I bridge the gap between complex data and intuitive user experiences. Currently 
 
 ---
 
-## 📊 Featured Data Project
+## Featured Data Project
 ### [NYC Restaurant Inspections: Data Cleaning Case Study](https://github.com/Samreensaba/NYC-Restaurant-Data-Cleaning)
 * **Goal:** Cleaned 81k+ rows of NYC city data using Python.
 * **Tech:** Pandas, NumPy, Seaborn, Matplotlib.
@@ -13,12 +13,7 @@ I bridge the gap between complex data and intuitive user experiences. Currently 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Data:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Statistics.
 * **Frontend:** React, JavaScript, CSS/HTML.
 * **Tools:** Git, Jupyter Notebooks, Google Colab.
-
----
-
-## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[samreensaba]&show_icons=true&theme=radical)
